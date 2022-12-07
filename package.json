@@ -1,0 +1,24 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "bot with cats",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mishka-k/cats-nodejs-tg-bot.git"
+  },
+  "author": "mishka-k",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mishka-k/cats-nodejs-tg-bot/issues"
+  },
+  "homepage": "https://github.com/mishka-k/cats-nodejs-tg-bot#readme",
+  "dependencies": {
+    "node-fetch": "2.6.7",
+    "node-telegram-bot-api": "^0.60.0"
+  }
+}
